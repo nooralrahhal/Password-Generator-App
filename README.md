@@ -1,3 +1,10 @@
+
+
+# Password-Generator-App
+
+##  A sleek and customizable Password Generator React-based App .
+
+
 # Password-Generator
 
 A sleek and user-friendly password generator app to generate secure passwords .
@@ -13,7 +20,7 @@ This is a challenge from [Frontend Mentor Platform](https://www.frontendmentor.i
 
 ### Screenshot
 
-[](images/password-generator-ui.png)
+[Password Generator UI](images/password-generator-ui.png)
 
 ## Built with
 
@@ -23,4 +30,4 @@ This is a challenge from [Frontend Mentor Platform](https://www.frontendmentor.i
 
 ### Links
 
-Check out [Live Password Generator]()
+Check out [Live Password Generator](https://nooralrahhal.github.io/Password-Generator-App/)
