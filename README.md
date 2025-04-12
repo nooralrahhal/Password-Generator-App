@@ -1,9 +1,6 @@
-
-
 # Password-Generator-App
 
-##  A sleek and customizable Password Generator React-based App .
-
+## A sleek and customizable Password Generator React-based App .
 
 # Password-Generator
 
@@ -28,6 +25,6 @@ This is a challenge from [Frontend Mentor Platform](https://www.frontendmentor.i
 - TailwindCSS
 - React - JS Library .
 
-### Links
+### Live Demo
 
-Check out [Live Password Generator](https://nooralrahhal.github.io/Password-Generator-App/)
+Check out [Live Password Generator](https://password-generator-app-chi-lovat.vercel.app/)
